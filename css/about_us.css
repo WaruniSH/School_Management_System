@@ -1,0 +1,18 @@
+.vision_p{
+	line-height: 1.7rem;
+		font-weight: 400;
+		font-size: 15px;
+		color: #000;
+		margin: 0;
+		text-align: left !important;
+}
+.get_into_btn{
+			line-height: 3;
+			background: transparent linear-gradient(270deg, #00a0c4, #0271a6) 0 0 no-repeat padding-box !important;
+			color: #fff;
+			padding: 8px 10px;
+			border-radius: 5px;
+			font-weight: 500;
+			text-decoration: none;
+}
+  
